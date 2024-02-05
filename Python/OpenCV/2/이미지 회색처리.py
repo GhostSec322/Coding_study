@@ -7,3 +7,4 @@ print(type(img))
 print(img.ndim) ## 해당 이미지 차원을 알려준다.
 print(img.shape) ## 이미지 크기 
 print(img.size)
+
